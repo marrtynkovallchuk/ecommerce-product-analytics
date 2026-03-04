@@ -10,13 +10,13 @@ Business intelligence & product analytics project built using **Google BigQuery 
 ![Overview](/images/Overview.png)
 
 ### Conversion Funnel
-![FConversion_Funnel](Conversion_Funnel.png)
+![FConversion_Funnel](/images/Conversion_Funnel.png)
 
 ### Sales by Time
-![Sales_by_Time](Sales_by_Time.png)
+![Sales_by_Time](/images/Sales_by_Time.png)
 
 ### Brand Performance
-![Brand Performance](Brand_Performance.png)
+![Brand Performance](/images/Brand_Performance.png)
 
 ---
 
