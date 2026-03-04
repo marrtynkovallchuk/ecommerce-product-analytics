@@ -6,17 +6,17 @@ Business intelligence & product analytics project built using **Google BigQuery 
 
 ## Dashboard Preview
 
-### Executive Overview
-![Executive Overview](Executive_Overview.png)
+###  Overview
+![Overview](Overview.png)
 
-### Funnel & User Behavior
-![Funnel & User Behavior](Funnel_User_Behavior.png)
+### Conversion Funnel
+![FConversion_Funnel](Conversion_Funnel.png)
 
-### Retention & LTV Analysis
-![Retention & LTV](Retention_LTV.png)
+### Sales by Time
+![Sales_by_Time](Sales_by_Time.png)
 
-### Payments & Transactions
-![Payments & Transactions](Payments_Transactions.png)
+### Brand Performance
+![Brand Performance](Brand_Performance.png)
 
 ---
 
