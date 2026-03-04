@@ -16,7 +16,7 @@ Business intelligence & product analytics project built using **Google BigQuery 
 ![Sales_by_Time](/images/Sales_by_Time.png)
 
 ### Brand Performance
-![Brand Performance](/images/Brand_Performance.png)
+![Brand Performance](/images/Brand_Perfomance.png)
 
 ---
 
