@@ -7,7 +7,7 @@ Business intelligence & product analytics project built using **Google BigQuery 
 ## Dashboard Preview
 
 ###  Overview
-![Overview](image/Overview.png)
+![Overview](/image/Overview.png)
 
 ### Conversion Funnel
 ![FConversion_Funnel](Conversion_Funnel.png)
