@@ -64,14 +64,14 @@ The Power BI report consists of **4 pages**, reflecting key product analytics in
 
 ## Key Metrics
 
-- **Total Revenue** – Sum of all purchase prices  
-- **Orders** – Count of purchase events  
-- **Average Order Value (AOV)** – Revenue / Orders  
-- **Users** – Unique user count  
-- **Conversion Rates** – View→Cart, Cart→Purchase, View→Purchase  
-- **Events per User / Session** – User engagement metrics  
-- **Cart Abandonment Rate** – Users who added to cart but didn’t purchase  
-- **Average Session Duration** – Time spent per session  
+- **Total Revenue** - Sum of all purchase prices  
+- **Orders** - Count of purchase events  
+- **Average Order Value (AOV)** - Revenue / Orders  
+- **Users** - Unique user count  
+- **Conversion Rates** - View→Cart, Cart→Purchase, View→Purchase  
+- **Events per User / Session** - User engagement metrics  
+- **Cart Abandonment Rate** - Users who added to cart but didn’t purchase  
+- **Average Session Duration** - Time spent per session  
 
 ---
 
@@ -81,15 +81,14 @@ The dataset contains **event-level user interactions** for an e-commerce platfor
 
 ### Main fields:
 
-- `event_time` – timestamp of the event  
-- `event_type` – `view`, `cart`, `purchase`  
+- `event_time` - timestamp of the event  
+- `event_type` - `view`, `cart`, `purchase`  
 - `user_id` – unique user identifier  
-- `user_session` – session ID  
+- `user_session` - session ID  
 - `product_id`  
 - `category_id`, `category_code`  
 - `brand`  
 - `price`  
-- Additional payment fields (if present)  
 
 ---
 
@@ -99,13 +98,13 @@ All analysis was performed using **BigQuery Standard SQL**.
 
 ### Analysis Blocks
 
-1. **Dataset Overview** – Row counts, unique users, events by type  
-2. **Funnel Analysis** – View → Cart → Purchase conversions  
-3. **Revenue Metrics** – Total revenue, AOV, ARPU  
-4. **Time Analysis** – Purchases by hour & weekday, session metrics  
-5. **Brand Analysis** – Top brands by revenue, views, purchases, conversion  
-6. **Retention & LTV** – Returning users, user lifetime value distribution  
-7. **Cart Abandonment** – Users who added to cart but did not purchase  
+1. **Dataset Overview** - Row counts, unique users, events by type  
+2. **Funnel Analysis** - View → Cart → Purchase conversions  
+3. **Revenue Metrics** - Total revenue, AOV, ARPU  
+4. **Time Analysis** - Purchases by hour & weekday, session metrics  
+5. **Brand Analysis** - Top brands by revenue, views, purchases, conversion  
+6. **Retention & LTV** - Returning users, user lifetime value distribution  
+7. **Cart Abandonment** - Users who added to cart but did not purchase  
 
 All SQL queries are stored in the `/sql` folder.
 
@@ -126,14 +125,14 @@ All SQL queries are stored in the `/sql` folder.
 - `/sql` – BigQuery SQL queries  
 - `Ecommerce_Report.pbix` – Power BI report file  
 - Dashboard screenshots (`images/` folder)  
-- Dataset file (optional or link to Kaggle)  
+- Dataset file 
 
 ---
 
 ## Tools Used
 
 - Google BigQuery  
-- SQL (CTEs, CASE, COUNTIF, SAFE_DIVIDE, TIMESTAMP functions)  
+- SQL
 - Power BI  
 - Data modeling & KPI design  
 
