@@ -22,7 +22,7 @@ Business intelligence & product analytics project built using **Google BigQuery 
 
 ## Project Overview
 
-This project demonstrates real-world product analytics workflows by combining **SQL-based data analysis** with **interactive Power BI dashboards**.
+This project explores product analytics for an e-commerce dataset using SQL and Power BI.
 
 Main objectives:
 
@@ -122,8 +122,8 @@ All SQL queries are stored in the `/sql` folder.
 
 ## Repository Contents
 
-- `/sql` – BigQuery SQL queries  
-- `Ecommerce_Report.pbix` – Power BI report file  
+- `/sql` - BigQuery SQL queries  
+- `Ecommerce_Report.pbix` - Power BI report file  
 - Dashboard screenshots (`images/` folder)  
 - Dataset file 
 
